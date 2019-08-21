@@ -1,0 +1,3 @@
+# onkyo_exporter
+
+The Onkyo TX-NR616 amplifier has a rather annoying feature where it will stop responding to network commands every now and then. This is the simplest possible exporter (with a few extra metrics thrown in for a good measure) to allow for setting up an alert for when this happens...
